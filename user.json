@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+           "id":1,
+           "first_name":"John",
+           "last_name":"Boe",
+           "email":"john.boe@email.com",
+           "created_at":"2020-01-01 00:00:00",
+           "updated_at":"2020-01-01 00:00:00"
+        },
+        {
+           "id":2,
+           "first_name":"John",
+           "last_name":"Toe",
+           "email":"john.toe@email.com",
+           "created_at":"2020-02-01 00:00:00",
+           "updated_at":"2020-02-01 00:00:00"
+        },
+        {
+           "id":3,
+           "first_name":"John",
+           "last_name":"Koe",
+           "email":"john.koe@email.com",
+           "created_at":"2020-03-01 00:00:00",
+           "updated_at":"2020-03-01 00:00:00"
+        },
+        {
+           "id":4,
+           "first_name":"John",
+           "last_name":"Soe",
+           "email":"john.soe@email.com",
+           "created_at":"2020-04-01 00:00:00",
+           "updated_at":"2020-04-01 00:00:00"
+        },
+        {
+           "id":5,
+           "first_name":"John",
+           "last_name":"Loe",
+           "email":"john.loe@email.com",
+           "created_at":"2020-05-01 00:00:00",
+           "updated_at":"2020-05-01 00:00:00"
+        }
+    ]
+}
